@@ -6,3 +6,5 @@ parts:
   - file: mechanisms/universities/README.md
     sections:
     - file: mechanisms/universities/academics.md
+    - file: mechanisms/universities/teaching.md
+  - file: mechanisms/enterprises/README.md
