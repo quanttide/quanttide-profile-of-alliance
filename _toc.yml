@@ -3,6 +3,12 @@ root: index.md
 parts:
 - caption: 工作机制
   chapters:
+  - file: mechanisms/talents/README.md
+    sections:
+    - file: mechanisms/talents/communities.md
+    - file: mechanisms/talents/research_assistants.md
+    - file: mechanisms/talents/competitions.md
+    - file: mechanisms/talents/training_base.md
   - file: mechanisms/universities/README.md
     sections:
     - file: mechanisms/universities/academics.md
